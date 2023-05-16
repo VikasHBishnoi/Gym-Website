@@ -1,2 +1,2 @@
-# Gym-Website
-A Fully Function Webstite For Gym
+# Path Visulizer
+A interactive Website for Path Visulizer
